@@ -1,5 +1,24 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed augue condimentum, blandit dolor sed, blandit arcu. Phasellus leo elit, fermentum a nisl in, vulputate porta purus. Donec lacinia facilisis ullamcorper. Sed semper quam malesuada massa aliquet, quis pellentesque arcu fermentum. In hac habitasse platea dictumst. Donec faucibus elementum metus, eget dignissim nisl. In interdum nisi ut tortor mattis, sit amet euismod nulla scelerisque. Nunc quis urna felis. Donec mauris magna, porttitor eget elementum lacinia, lobortis ut ex. Morbi vestibulum turpis ligula, a congue sem dignissim quis.
+## Why Africa?
 
-Phasellus feugiat iaculis nibh sed imperdiet. Pellentesque vitae felis vitae massa sollicitudin scelerisque. Phasellus dolor odio, imperdiet eu vulputate et, elementum eu orci. Fusce a urna fermentum, vehicula justo et, porta eros. Vivamus ac urna bibendum odio fermentum varius. Nulla vitae aliquam neque. Aenean dignissim sagittis urna id faucibus. Aliquam varius magna malesuada turpis aliquam aliquet. Suspendisse eget cursus sapien. Mauris congue ac augue a ultricies.
+Africa is a diverse continent of 54 nations and 1.3 billion people—coincidentally the same as the combined
+totals for North America and Europe. But activity in the tech industry takes place predominantly in America and
+Europe. Why is that?
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam lobortis vehicula condimentum. Nam eu sem ex. Sed elit nisl, finibus nec consectetur sit amet, mollis eget augue. Nunc vitae mauris in leo porttitor iaculis eu nec ante. Aliquam egestas gravida eros ac cursus. Ut id molestie velit, ultrices congue justo. In eu erat sed neque tempor efficitur. Maecenas nulla dolor, vestibulum quis aliquam ac, interdum sed lorem.
+Few of the answers to that question would be surprising: Africa has a significantly smaller economy; its
+infrastructure is less developed; and education is generally less available.
+
+But the economies of African nations are growing faster on average than those in the rich world. And
+infrastructure is improving: more than half a billion Africans are now online. And projects like Alphabet's
+[Loon](https://loon.com/) are helping to make Internet access even more ubiquitous. And while _education_ lags
+behind much of the rest of the world, Africa has never had any shortage of _capability_ or _innovation_.
+
+And meanwhile, the world is changing. The 2020 Coronavirus pandemic has forced businesses all over the world to
+adapt to a new reality of remote work, particularly software engineers—and it's been shown to work! And this
+change has taken place while the industry has been one of the least affected by the pandemic. So a
+developer's physical location is becoming less and less important: a developer in Lagos with the same skills
+as a developer in London can do the same work, particularly as much of Africa lies in timezones close to
+Europe's.
+
+Wages, like living costs, across Africa are typically much lower than those in Europe and America. So if a
+programmer in Africa can perform the same work as a European programmer, then why _shouldn't_ they be able to
+compete for that work on an equal footing?

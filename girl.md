@@ -19,6 +19,6 @@ developer's physical location is becoming less and less important: a developer i
 as a developer in London can do the same work, particularly as much of Africa lies in timezones close to
 Europe's.
 
-Wages, like living costs, across Africa are typically much lower than those in Europe and America. So if a
+Wages—like living costs—across Africa are typically much lower than those in Europe and America. So if a
 programmer in Africa can perform the same work as a European programmer, then why _shouldn't_ they be able to
 compete for that work on an equal footing?

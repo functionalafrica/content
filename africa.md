@@ -1,6 +1,6 @@
 # How can you help?
 
-Our short-term goals are focused on _education_. If you have experience teaching a functional programming
+Our short-term goals are focused on **education**. If you have experience teaching a functional programming
 language like Haskell or Scala, or any related technologies, and have time to share your skills, then please
 join us as a volunteer teacher.
 Our teaching program is flexible, and can be expanded to include your regular lessons, or just a one-off

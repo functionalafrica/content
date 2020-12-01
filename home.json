@@ -1,17 +1,21 @@
 [
   {
+    "id": "about",
     "text": "intro.md",
     "image": "rhino.jpg"
   },
   {
+    "id": "why",
     "text": "girl.md",
     "image": "girl.jpg"
   },
   {
+    "id": "program",
     "text": "city.md",
     "image": "city.jpg"
   },
   {
+    "id": "how",
     "text": "africa.md",
     "image": "waterfall.jpg"
   }

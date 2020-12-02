@@ -1,7 +1,7 @@
+# What is Functional Africa?
+
 **We believe that software developers should be able to receive the best education and participate in the global
 marketplace on the merit of their abilities, wherever in the world they are.**
-
-# What is Functional Africa?
 
 **Functional Africa** is a program to provide education in **functional programming** to aspiring developers in
 Africa who don't have access to the same teaching that the long-established tech communities in Europe and

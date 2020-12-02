@@ -4,4 +4,4 @@ Thank you for your interest in **Functional Africa**. We are just beginning on o
 
 Our first priority is to launch our educational program at the start of 2021, but shortly afterwards, we will start our **Hiring Consultation** which will guide our focus on the most effective actions we can take. And that is where we will need your input.
 
-So for now, if you share our goals, and have confidence in our approach, then please spread the word to others!
+But for now, if you share our goals, and have confidence in our approach, then please spread the word to others!

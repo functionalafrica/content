@@ -9,11 +9,11 @@ America enjoy.
 
 We want to make it easier for developers in Africa to participate in a global economy that is increasingly open
 to remote work, without artificial barriers. We want it to be easier for anyone to apply for a remote job in
-Haskell or Scala, and easier for employers to hire them, without artificial barriers 
+Haskell or Scala, and easier for employers to hire them.
 
 **The Internet is open. Africa is coming online. And the world is waking up to remote work.**
 
-Functional Scala is just beginning on its journey towards charitable status. Starting in 2021, we will begin
+**Functional Africa** is just beginning on its journey towards charitable status. Starting in 2021, we will begin
 a program of free, interactive, online teaching in Scala, alongside a six-month consultation to investigate the
 what impediments are holding back Africa's involvement in the world of functional programming.
 

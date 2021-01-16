@@ -19,7 +19,7 @@ infrastructure is improving: more than half a billion Africans are now online. A
 behind much of the rest of the world, Africa has never had any shortage of **capability** or **innovation**.
 > Mais les économies des pays africains croissent plus rapidement en moyenne que celles des pays riches. Et
 > l'infrastructure s'améliore: plus d'un demi-milliard d'Africains sont désormais connectés. Et des projets
-> comme Alphabet's [Loon](https://loon.com/) contribuent à rendre l'accès Internet encore plus omniprésent. Et
+> comme [Loon](https://loon.com/) par Alphabet contribuent à rendre l'accès Internet encore plus omniprésent. Et
 > si **l'éducation** est en retard sur une grande partie du reste du monde, l'Afrique n'a jamais manqué de
 > **capacités** ou **d'innovation**.
 

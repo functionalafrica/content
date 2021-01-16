@@ -47,3 +47,4 @@ aid; it can be self-sustaining and long-lived.
 > L'autonomisation économique de quelques programmeurs fonctionnels aide non seulement ces développeurs, mais
 > aussi les autres autour d'eux. Le succès dans un domaine engendre le succès dans les zones voisines. Et ce
 > succès reposera sur le commerce et non sur l'aide; il peut être autonome et durable.
+

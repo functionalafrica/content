@@ -10,19 +10,19 @@ marketplace on the merit of their abilities, wherever in the world they are.**
 Africa who don't have access to the same teaching that the long-established tech communities in Europe and
 America enjoy.
 > **Functional Africa** est un programme destiné à fournir une formation en **programmation fonctionnelle** aux
-> futurs développeurs en Afrique qui n'ont pas accès au même enseignement que les communautés technologiques
-> établies de longue date en Europe et en Amérique.
+> futurs développeurs en Afrique qui n'ont pas accès à l'enseignement dont les communautés technologiques
+> établies de longue date en Europe et en Amérique bénéficient.
 
 We want to make it easier for developers in Africa to participate in a global economy that is increasingly open
 to remote work, without artificial barriers. We want it to be easier for anyone to apply for a remote job in
 Haskell or Scala, and easier for employers to hire them.
-> Nous voulons faciliter la participation des développeurs en Afrique à une économie mondiale de plus en plus
-> ouverte au travail à distance, sans barrières artificielles. Nous voulons qu'il soit plus facile pour
-> quiconque de postuler pour un emploi à distance à Haskell ou Scala, et plus facile pour les employeurs de les
+> Nous voulons faciliter la participation de ces développeurs à une économie mondiale de plus en plus
+> ouverte au travail à distance et sans barrières artificielles. Nous voulons qu'il soit plus facile pour
+> quiconque de postuler à un emploi à distance en Haskell ou en Scala, et qu'il soit plus facile pour les employeurs de les
 > embaucher.
 
 **The Internet is open. Africa is coming online. And the world is waking up to remote work.**
-> **L'Internet est ouvert. L'Afrique se met en ligne. Et le monde se réveille au travail à distance.**
+> **Internet est ouvert. L'Afrique se connecte. Et le monde s'éveille au travail à distance.**
 
 **Functional Africa** is just beginning on its journey towards charitable status. Starting in 2021, we will begin
 a program of free, interactive, online teaching in Scala, alongside a six-month consultation to investigate the
@@ -34,5 +34,5 @@ what impediments are holding back Africa's involvement in the world of functiona
 
 Of all of Africa's diverse exports — coffee and cotton, copper or coal — one that should be easier to trade
 with the rest of the world, with a lower environmental impact, is **code**.
-> Parmi toutes les exportations diverses de l'Afrique — café et coton, cuivre ou charbon — celle qui devrait
-> être plus facile à échanger avec le reste du monde, avec un impact environnemental moindre, est **code**.
+> Parmi toutes les exportations variées de l'Afrique - café, coton, cuivre ou encore charbon, celle qui devrait
+> être la plus facile à échanger avec le reste du monde, avec un impact environnemental bien moindre, est le **code**.

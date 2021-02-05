@@ -1,5 +1,5 @@
-# Education
-> # Éducation
+## Education
+> ## Éducation
 
 Change is difficult, and can take decades. But the most entrenched, lasting changes come about **gradually**
 and **steadily**, and are the hardest changes to reverse.

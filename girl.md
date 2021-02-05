@@ -1,5 +1,5 @@
-# Why Africa?
-> # Pourquoi l'Afrique?
+## Why Africa?
+> ## Pourquoi l'Afrique?
 
 Africa is a diverse continent of 54 nations and 1.3 billion people — coincidentally the same as the combined
 totals for North America and Europe. But activity in the tech industry takes place predominantly in America and

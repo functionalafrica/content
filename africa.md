@@ -1,5 +1,5 @@
-# How can you help?
-> # Comment puis-je aider?
+## How can you help?
+> ## Comment puis-je aider?
 
 Our short-term goals are focused on **education**. If you have experience teaching a functional programming
 language like Haskell or Scala, or any related technologies, and have time to share your skills, then please

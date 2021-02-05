@@ -1,5 +1,5 @@
-# What is Functional Africa?
-> # Qu'est-ce que Functional Africa?
+## What is Functional Africa?
+> ## Qu'est-ce que Functional Africa?
 
 **We believe that software developers should be able to receive the best education and participate in the global
 marketplace on the merit of their abilities, wherever in the world they are.**

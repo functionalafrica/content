@@ -1,4 +1,4 @@
-# How can you help?
+## How can you help?
 
 Our short-term goals are focused on **education**. If you have experience teaching a functional programming
 language like Haskell or Scala, or any related technologies, and have time to share your skills, then please

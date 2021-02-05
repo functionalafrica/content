@@ -12,13 +12,6 @@ grateful for the opportunity to listen and grow my knowledge.
 > africain—donc j'ai été extrêmement reconnaissant de l'opportunité d'écouter et de développer mes
 > connaissances.
 
-
-
-
-
-
-
-
 One detail I mentioned in my [presentation at Functional Scala](https://www.youtube.com/watch?v=XE01vv7IPp8)
 was an anecdote I had known for many years: that despite having less widespread access to technology, mobile
 payments have seen greater adoption in Africa than in many countries in the rich world.
@@ -103,11 +96,6 @@ money to friends and family, pay bills, and even borrow.
 > Avec ce lancement, il est devenu possible pour quiconque possédant un téléphone portable de déposer et de
 > retirer de l'argent, de transférer de l'argent à ses amis et à sa famille, de payer ses factures et même d'emprunter.
 
-
-
-
-
-
 M-Pesa filled a void for many members of society. Traditional banking services were expensive and not widely
 used in Kenya, particularly in more rural areas.
 > M-Pesa a comblé un vide pour de nombreux membres de la société. Les services bancaires traditionnels étaient
@@ -130,10 +118,10 @@ mobile payments were fully embraced in Africa when they became available.
 And that couldn't have happened elsewhere in the world.
 > Et cela n’aurait pas pu se produire ailleurs dans le monde.
 
-In many European countries, even in the 2020s, shops which _only_ accept cash are still common, and the UK
+In many European countries, even in the 2020s, shops which *only* accept cash are still common, and the UK
 government has been trying for years to shut down payment by cheque—only to face resistance from the population.
-> Dans de nombreux pays européens, même dans les années 2020, les magasins qui n'acceptent que les espèces sont
-> encore courants, et le gouvernement britannique essaie depuis des années de suspendre le paiement par
+> Dans de nombreux pays européens, même dans les années 2020, les magasins qui n'acceptent *que* les espèces
+> sont encore courants, et le gouvernement britannique essaie depuis des années de suspendre le paiement par
 > chèque—seulement pour faire face à la résistance de la population.
 
 ### The Lindy Effect
@@ -163,10 +151,10 @@ suggests that vi and Emacs will still be around long after VS Code and Atom are 
 > maintenus.
 
 This offers no commentary or analysis on the quality or design choices of any of those four editors. Nor does it
-offer any _guarantee_ that one technology will outlive another. It just observes that, statistically, past
+offer any *guarantee* that one technology will outlive another. It just observes that, statistically, past
 survival is one of the best indicators of future survival.
 > Cela n'offre aucun commentaire ou analyse sur la qualité ou les choix de conception de l'un de ces quatre
-> éditeurs. Il n'offre pas non plus de garantie qu'une technologie survivra à une autre. Il observe simplement
+> éditeurs. Il n'offre pas non plus de *garantie* qu'une technologie survivra à une autre. Il observe simplement
 > que, statistiquement, la survie passée est l'un des meilleurs indicateurs de la survie future.
 
 We can explain this phenomenon in two different ways.
@@ -186,34 +174,34 @@ technology gets older, its chance of disappearing goes down (within a unit of ti
 
 Alternatively, and more tangibly, the longer a particular technology has existed, the more people,
 organizations, services, commerce, investment and mindshare will have come to depend upon it, and the harder it
-becomes for those interactions to be _undone_ in order for the technology to disappear. And so it doesn't; not
+becomes for those interactions to be *undone* in order for the technology to disappear. And so it doesn't; not
 so easily, at least.
 > Alternativement, et de manière plus tangible, plus une technologie particulière existe depuis longtemps, plus
 > les personnes, les organisations, les services, le commerce, les investissements et la part d'esprit en
-> dépendront, et plus il deviendra difficile pour ces interactions d'être annulées pour que le la technologie à
+> dépendront, et plus il deviendra difficile pour ces interactions d'être *annulées* pour que le la technologie à
 > disparaître. Et donc ce n’est pas le cas; pas si facilement, du moins.
 
 ### Lindy Hopping
-> ### Le hop Lindy
+> ### Le "hop" Lindy
 
 In technology-saturated Europe and America, the Lindy Effect can hold us back.
 > Dans l'Europe et l'Amérique saturées de technologie, l'effet Lindy peut nous retenir.
 
 A long-established incumbent technology—be it cheques, fixed-line telephones, or a particular text editor—is
-much harder to _displace_ than a recent invention. That means that a new technology challenging an incumbent
+much harder to *displace* than a recent invention. That means that a new technology challenging an incumbent
 technology must work harder to beat it.
 > Une technologie établie de longue date—qu'il s'agisse de chèques, de téléphones fixes ou d'un éditeur de texte
-> particulier—est beaucoup plus difficile à déplacer qu'une invention récente. Cela signifie qu'une nouvelle
+> particulier—est beaucoup plus difficile à *déplacer* qu'une invention récente. Cela signifie qu'une nouvelle
 > technologie défiant une technologie en place doit travailler plus dur pour la battre.
 
 But new inventions are arriving and competing for adoption in their space all the time. And for the most part,
 the rich world is the target market for that competition. While more products are brought to market first in
 Europe and America. And despite the innovation, most of those products are short-lived, not so much because of
-_contemporary_ competition, but because of _established_ competition.
+*contemporary* competition, but because of *established* competition.
 > Mais de nouvelles inventions arrivent et se disputent constamment l'adoption dans leur espace. Et pour la
 > plupart, le monde riche est le marché cible de cette concurrence. Alors que plus de produits sont mis sur le
 > marché d'abord en Europe et en Amérique. Et malgré l'innovation, la plupart de ces produits sont de courte
-> durée, non pas tant à cause de la concurrence contemporaine, mais à cause de la concurrence établie.
+> durée, non pas tant à cause de la concurrence *contemporaine*, mais à cause de la concurrence *établie*.
 
 Many technologies never became widespread in Africa because theirs proponents always thought first about the
 rich world as their target market. But many technologies never become widespread in the rich world because they
@@ -237,13 +225,13 @@ Programming as precisely such a technology.
 ### Functional Programming's Opportunity
 > ### Opportunité de programmation fonctionnelle
 
-As a software developer, I primarily use [Scala](https://scala-lang.org/), a _functional_ language, and I work
+As a software developer, I primarily use [Scala](https://scala-lang.org/), a *functional* language, and I work
 with many other developers who use [Haskell](https://haskell.org/), another FP language. And we recognise the
-benefits these languages bring over more established _imperative_ languages like Java and Python.
+benefits these languages bring over more established *imperative* languages like Java and Python.
 > En tant que développeur de logiciels, j'utilise principalement [Scala](https://scala-lang.org/), un langage
-> fonctionnel, et je travaille avec de nombreux autres développeurs qui utilisent
+> *fonctionnel*, et je travaille avec de nombreux autres développeurs qui utilisent
 > [Haskell](https://haskell.org), un autre langage FP. Et nous reconnaissons les avantages que ces langages
-> apportent par rapport à des langages impératifs plus établis comme Java et Python.
+> apportent par rapport à des langages *impératifs* plus établis comme Java et Python.
 
 But we are nevertheless in the minority within the software industry, while the majority continues to write code
 in the imperative paradigm.
@@ -256,12 +244,12 @@ simpler and more reliable—but to many businesses, these advantages are less im
 > logiciel plus petit, plus simple et plus fiable—mais pour de nombreuses entreprises, ces avantages sont moins importants.
 
 Most companies prefer to invest their development time in long-established programming techniques because they
-are perceived as _proven_ by their longevity; safe, even if unremarkable, and supported by huge pools of
+are perceived as *proven* by their longevity; safe, even if unremarkable, and supported by huge pools of
 developers in a dynamic jobs market. That helps to creates jobs, too, as young developers learn these languages
 in order to get work. Consequently, the large body of programmers working in those languages further perpetuates
 their adoption.
 > La plupart des entreprises préfèrent investir leur temps de développement dans des techniques de programmation
-> établies de longue date car elles sont perçues comme prouvées par leur longévité; sûr, même si banal, et
+> établies de longue date car elles sont perçues comme *prouvées* par leur longévité; sûr, même si banal, et
 > soutenu par d'énormes pools de développeurs dans un marché de l'emploi dynamique. Cela contribue également à
 > créer des emplois, car les jeunes développeurs apprennent ces langues pour trouver du travail. Par conséquent,
 > le grand nombre de programmeurs travaillant dans ces langues perpétue encore leur adoption.

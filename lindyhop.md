@@ -1,5 +1,3 @@
-# Africa, Technology, and Lindy Hopping
-
 Over the last few weeks since I announced Functional Africa, I've had the pleasure of talking to several people
 who have been kind enough to give me some of their time to talk about the project, and their experiences.
 
@@ -15,7 +13,7 @@ As I discovered during my conversations, the adoption of technologies like
 [M-Pesa](https://en.wikipedia.org/wiki/M-Pesa) was not so much a rare success of advanced technology in Africa,
 but more a pattern that has repeated itself many times over.
 
-## The Mobile Revolution
+### The Mobile Revolution
 
 In 2004, Africa [became the first continent](https://bit.ly/3acMaEs) to have more mobile phones than fixed-line
 phones. In the USA, that threshold was [only crossed in 2016](https://bit.ly/2YwjkK8). And only in 2019 did the
@@ -45,7 +43,7 @@ overtake fixed-line phones in countries where the latter had never taken hold.
 And so it appeared that most of Africa leapfrogged an entire generation of technology, to lead the world (by
 over a decade) in being having a mobile-oriented society.
 
-## Electronic Payments in Africa
+### Electronic Payments in Africa
 
 And so, when M-Pesa was launched in Kenya in 2007 by mobile operators, Vodafone and Safaricom, its mobile-ready
 society provided fertile ground for the service.
@@ -68,7 +66,7 @@ And that couldn't have happened elsewhere in the world.
 In many European countries, even in the 2020s, shops which _only_ accept cash are still common, and the UK
 government has been trying for years to shut down payment by cheque—only to face resistance from the population.
 
-## The Lindy Effect
+### The Lindy Effect
 
 The [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect) is a phenomenon which can be used to predict the
 future life-expectancy of a technology based on its age. It states that the longer a particular technology has
@@ -100,7 +98,7 @@ organizations, services, commerce, investment and mindshare will have come to de
 becomes for those interactions to be _undone_ in order for the technology to disappear. And so it doesn't; not
 so easily, at least.
 
-## Lindy Hopping
+### Lindy Hopping
 
 In technology-saturated Europe and America, the Lindy Effect can hold us back.
 
@@ -123,7 +121,7 @@ hold, and to adopt them while the rest of the world makes the long slow migratio
 Africa has the chance to leapfrog yesterday's technologies and go straight to tomorrow's. And I see Functional
 Programming as precisely such a technology.
 
-## Functional Programming's Opportunity
+### Functional Programming's Opportunity
 
 As a software developer, I primarily use [Scala](https://scala-lang.org/), a _functional_ language, and I work
 with many other developers who use [Haskell](https://haskell.org/), another FP language. And we recognise the

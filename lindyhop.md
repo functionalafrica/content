@@ -63,7 +63,7 @@ mobile payments were fully embraced in Africa when they became available.
 
 And that couldn't have happened elsewhere in the world.
 
-In many European countries, even in the 2020s, shops which _only_ accept cash are still common, and the UK
+In many European countries, even in the 2020s, shops which *only* accept cash are still common, and the UK
 government has been trying for years to shut down payment by cheque—only to face resistance from the population.
 
 ### The Lindy Effect
@@ -81,7 +81,7 @@ But despite the recency of the technology, the Lindy Effect is generally a bette
 suggests that vi and Emacs will still be around long after VS Code and Atom are no longer maintained.
 
 This offers no commentary or analysis on the quality or design choices of any of those four editors. Nor does it
-offer any _guarantee_ that one technology will outlive another. It just observes that, statistically, past
+offer any *guarantee* that one technology will outlive another. It just observes that, statistically, past
 survival is one of the best indicators of future survival.
 
 We can explain this phenomenon in two different ways.
@@ -90,12 +90,12 @@ Firstly, the lifespans of technologies obey a power law distribution: at any giv
 are considered "current" will include many that are recent and new, and a long tail of fewer and fewer
 current technologies from the more distant past.
 
-If we take the derivative of the relationship, it implies a _decreasing mortality rate_, meaning that as a
+If we take the derivative of the relationship, it implies a decreasing mortality rate, meaning that as a
 technology gets older, its chance of disappearing goes down (within a unit of time).
 
 Alternatively, and more tangibly, the longer a particular technology has existed, the more people,
 organizations, services, commerce, investment and mindshare will have come to depend upon it, and the harder it
-becomes for those interactions to be _undone_ in order for the technology to disappear. And so it doesn't; not
+becomes for those interactions to be *undone* in order for the technology to disappear. And so it doesn't; not
 so easily, at least.
 
 ### Lindy Hopping
@@ -103,13 +103,13 @@ so easily, at least.
 In technology-saturated Europe and America, the Lindy Effect can hold us back.
 
 A long-established incumbent technology—be it cheques, fixed-line telephones, or a particular text editor—is
-much harder to _displace_ than a recent invention. That means that a new technology challenging an incumbent
+much harder to *displace* than a recent invention. That means that a new technology challenging an incumbent
 technology must work harder to beat it.
 
 But new inventions are arriving and competing for adoption in their space all the time. And for the most part,
 the rich world is the target market for that competition. While more products are brought to market first in
 Europe and America. And despite the innovation, most of those products are short-lived, not so much because of
-_contemporary_ competition, but because of _established_ competition.
+*contemporary* competition, but because of *established* competition.
 
 Many technologies never became widespread in Africa because theirs proponents always thought first about the
 rich world as their target market. But many technologies never become widespread in the rich world because they
@@ -123,9 +123,9 @@ Programming as precisely such a technology.
 
 ### Functional Programming's Opportunity
 
-As a software developer, I primarily use [Scala](https://scala-lang.org/), a _functional_ language, and I work
+As a software developer, I primarily use [Scala](https://scala-lang.org/), a *functional* language, and I work
 with many other developers who use [Haskell](https://haskell.org/), another FP language. And we recognise the
-benefits these languages bring over more established _imperative_ languages like Java and Python.
+benefits these languages bring over more established *imperative* languages like Java and Python.
 
 But we are nevertheless in the minority within the software industry, while the majority continues to write code
 in the imperative paradigm.
@@ -134,7 +134,7 @@ Functional programming offers many advantages—code that is easier to reason ab
 simpler and more reliable—but to many businesses, these advantages are less important.
 
 Most companies prefer to invest their development time in long-established programming techniques because they
-are perceived as _proven_ by their longevity; safe, even if unremarkable, and supported by huge pools of
+are perceived as *proven* by their longevity; safe, even if unremarkable, and supported by huge pools of
 developers in a dynamic jobs market. That helps to creates jobs, too, as young developers learn these languages
 in order to get work. Consequently, the large body of programmers working in those languages further perpetuates
 their adoption.

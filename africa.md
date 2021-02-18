@@ -22,14 +22,14 @@ smaller groups. If this interests you, then let us know; we anticipate this begi
 We will also begin our Hiring Consultation, and this is where everyone in the technology industry can help. We
 would like to conduct some short interviews online, lasting 20-30 minutes with people who have experience of
 hiring individuals living in Africa as an employer elsewhere in the world.
-> Nous commencerons également notre Consultation sur le Recrutement, et c'est là où le monde dans l'industrie IT
+> Nous commencerons également notre Consultation sur le Recrutement, et c'est là où le monde de l'industrie IT
 > peut aider. Nous aimerions réaliser de courts entretiens en ligne, d'une durée de 20 à 30
 > minutes, avec des employeurs hors d'Afrique qui ont eu l'occasion de recruter des candidats vivant en Afrique.
 
 That includes both positive and negative experiences. It's valuable information for us to know what worked as
 well as what didn't work.
 > Cela inclut les expériences tant positives que négatives. En effet, c'est tout autant important pour nous de
-> savoir ce qui a marché que ce qui n'a pas marché.
+> savoir ce qui a marché que ce qui n'a pas fonctioné.
 
 We plan to report on the findings of our consultation in the third quarter of 2021, which will motivate our
 next steps: the geographical and technological areas we focus on, the programs of work we embark upon, and the

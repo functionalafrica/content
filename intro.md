@@ -10,8 +10,8 @@ marketplace on the merit of their abilities, wherever in the world they are.**
 Africa who don't have access to the same teaching that the long-established tech communities in Europe and
 America enjoy.
 > **Functional Africa** est un programme destiné à fournir une formation en **programmation fonctionnelle** aux
-> futurs développeurs en Afrique qui n'ont pas accès à l'enseignement dont les communautés technologiques
-> établies de longue date en Europe et en Amérique bénéficient.
+> futurs développeurs en Afrique qui n'ont pas accès au même enseignement dont bénéficient l'Europe et l'Amérique 
+> avec leurs communautés technologiques établies de longue date.
 
 We want to make it easier for developers in Africa to participate in a global economy that is increasingly open
 to remote work, without artificial barriers. We want it to be easier for anyone to apply for a remote job in
@@ -35,4 +35,4 @@ what impediments are holding back Africa's involvement in the world of functiona
 Of all of Africa's diverse exports — coffee and cotton, copper or coal — one that should be easier to trade
 with the rest of the world, with a lower environmental impact, is **code**.
 > Parmi toutes les exportations variées de l'Afrique - café, coton, cuivre ou encore charbon, celle qui devrait
-> être la plus facile à échanger avec le reste du monde, avec un impact environnemental bien moindre, est le **code**.
+> être la plus facile à échanger avec le reste du monde, et ce, avec un impact environnemental bien moindre, est le **code**.
